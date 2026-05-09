@@ -19,7 +19,7 @@ All internal functions (add, sub, mul, div) are private inside an IIFE. Only the
 Make sure you have Node.js installed, then run:
 
 ```
-node calculator.js
+node script.js
 ```
 
 ## Example Usage
